@@ -3,3 +3,7 @@ __pycache__/
 .claude/
 .idea/
 3124004165/tests/answers/
+.coverage
+htmlcov/
+profile.out
+ans*.txt
